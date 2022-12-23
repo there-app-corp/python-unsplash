@@ -15,7 +15,7 @@ setup(
     install_requires=[
         "oauthlib==3.2.2",
         "requests==2.28.1",
-        "requests-oauthlib==2.28.1",
+        "requests-oauthlib==1.3.1",
         "six==1.10.0",
     ],
     keywords="unsplash library",
